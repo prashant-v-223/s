@@ -2,7 +2,7 @@
     width: 100%;
     height: auto;
     min-height: 23em;
-    background-color:  #000000;
+    background-color: #000000;
     border-radius: 1.5em;
     align-items: center;
     padding: 1em;
@@ -37,6 +37,7 @@
     box-shadow: none;
     margin-left: 0;
 }
+
 .badge-item {
     box-shadow: 0 0 2em -0.5em #ebf7fd, 0 0 2em 0 #357ae838, 0 0 4em 1em #357ae8b0;
     border-radius: 20em;
@@ -46,7 +47,7 @@
 }
 
 .badge-bg {
-    background-image: linear-gradient(125deg, #ebf7fd , #954A13 21%, #954A13 54%, #954A13 82%, #ebf7fd );
+    background-image: linear-gradient(125deg, #ebf7fd, #954A13 21%, #954A13 54%, #954A13 82%, #ebf7fd);
     padding: 0.1em;
 }
 
@@ -60,6 +61,7 @@
     padding: 13px 40px;
     display: flex;
 }
+
 .btn-text-small {
     font-size: .85em;
 }
@@ -80,7 +82,7 @@
 h3 {
     margin-top: 0;
     margin-bottom: 0;
-    
+
     font-size: 2rem;
     font-weight: 500;
     line-height: 1.2;
@@ -105,8 +107,9 @@ p {
 }
 
 .bi-background.is-val-bg {
-    background-image: radial-gradient(circle farthest-corner at 0% 100%, #954A13 26%, #000000 67%);
+    background-image: radial-gradient(circle farthest-corner at 0 100%, #513f81 26%, #000 67%);
 }
+
 
 .bi-background {
     z-index: 0;
@@ -146,6 +149,7 @@ p {
 .bg-item_image.is-valid {
     width: 56%;
 }
+
 .bg-item_image {
     z-index: 4;
     width: 50%;
@@ -167,6 +171,7 @@ p {
     margin-left: 0;
     margin-right: auto;
 }
+
 .bi-image_ui {
     z-index: 10;
     width: 100%;
@@ -179,6 +184,7 @@ p {
     margin-left: auto;
     position: relative;
 }
+
 img {
     max-width: 100%;
     vertical-align: middle;
@@ -210,10 +216,12 @@ img {
 .button.hero.no-glow {
     box-shadow: none;
 }
+
 .button.hero {
-    box-shadow: 0 0 1em 0 var(--accent-green),0 0 4em 0em var(--accent-green);
+    box-shadow: 0 0 1em 0 var(--accent-green), 0 0 4em 0em var(--accent-green);
     padding-right: 0.5em;
 }
+
 .button {
     max-height: 4em;
     min-height: 3em;
@@ -227,8 +235,7 @@ img {
     padding: 0.5em 1em;
     font-weight: 500;
     text-decoration: none;
-    transition: background-color .25s,transform .25s cubic-bezier(.645,.045,.355,1);
+    transition: background-color .25s, transform .25s cubic-bezier(.645, .045, .355, 1);
     display: flex;
     overflow: hidden;
 }
- 
