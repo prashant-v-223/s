@@ -820,10 +820,12 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="container p-0">
-            <CircutAnimation />
-            <GovernedCommunity />
-            <Interoperability />
+          <div className="container-fluid ">
+            <div className="mt-20 md:mx-36">
+              <CircutAnimation />
+              <GovernedCommunity />
+              <Interoperability />
+            </div>
           </div>
           <div className="container-fluid ">
             <Supercharge />{" "}
