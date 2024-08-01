@@ -73,7 +73,6 @@
     width: 100%;
     height: auto;
     min-height: 23em;
-    border: 1px solid rgba(195,200,250,.3);
     background-color: #000000;
     border-radius: 1.5em;
     align-items: center;
@@ -317,7 +316,6 @@ svg:not(:root) {
     width: 100%;
     height: auto;
     min-height: 23em;
-    border: 1px solid rgba(195,200,250,.3);
     background-color: #000000;
     border-radius: 1.5em;
     align-items: center;
@@ -484,7 +482,6 @@ p {
     width: 100%;
     height: auto;
     min-height: 23em;
-    border: 1px solid rgba(195,200,250,.3);
     background-color: #000000;
     border-radius: 1.5em;
     align-items: center;
