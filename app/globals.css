@@ -1827,7 +1827,9 @@ h3 {
   color: white;
   font: 14px;
 }
-
+ .df-item {
+border : none !important;
+}
 .dropdown_toggle_div li {
   font-size: 15px !important;
   color: white;
