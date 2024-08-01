@@ -15,7 +15,7 @@ const GovernedCommunity = () => {
 
     
     <div data-aos="fade-up" data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1"
-            className="df-item mt-10 df-item_last  mb-5 md:flex  justify-between"
+            className="df-item mt-10 md:mx-12 df-item_last  mb-5 md:flex  justify-between"
           >
             <div className="p-8 md:ml-5 md:max-w-[55%]">
               
