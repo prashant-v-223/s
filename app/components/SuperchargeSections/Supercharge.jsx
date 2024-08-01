@@ -12,7 +12,7 @@ const Supercharge = () => {
   }, []);
 
   return (
-    <div className="mt-20 md:mx-36">
+    <div className="mt-20 md:mx-36  px-3">
       <h2 className="text-center font-semibold text-[30px] my-5 text-white">
         Features of Unity Trade
       </h2>

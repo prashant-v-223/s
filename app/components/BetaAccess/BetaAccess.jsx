@@ -13,7 +13,7 @@ const BetaAccess = () => {
  }, [])
   return (
      <div data-aos="fade-up" className="relative">
-    <div class="block-item my-10">
+    <div class="block-item my-10  px-3">
       <div id="validator" class="anchor"></div>
       <div class="bi-content is-valid-cont">
         <div class="badge-item is--small">

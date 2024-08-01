@@ -71,18 +71,7 @@ const Interoperability = () => {
               <p className="text-white mt-3 max-w-[350px]">
               The robust & secure blockchain on which the Unity Trade platform is deployed. Unity Trade uses BSC network because
                </p>
-              <ul className="mt-5 dashboard_ul text-white">
-                <li className=" text-white" >
-                Robust & reliable 
-                </li>
-                <li className=" text-white">100% Secure & decentralized</li>
-                <li className=" text-white">
-                Faster transactions                
-                </li>
-                <li className=" text-white">
-                Minimal gas fees
-                </li>
-              </ul>
+             
             </div>
             <div className="max-w-[200px] mt-4  md:mt-0 mx-auto md:mx-0">
               <img src="/binance.png" />
