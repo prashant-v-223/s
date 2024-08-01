@@ -102,8 +102,7 @@ export default function Home() {
                   src="images/Group 1000004870.png"
                   loading="lazy"
                   alt=""
-                  className="nav-logo"
-                  width={220}
+                  className=""
                 />
               </a>
               <nav
