@@ -3,7 +3,7 @@ import React from 'react'
 const GovernedCommunity = () => {
   return (
 <div>
-    <div className='GovernedCommunity text-center py-28  md:mx-12'>
+    <div className='GovernedCommunity text-center py-28 container'>
          <h2 className='text-3xl font-bold text-white'>
           <span className='text-white'>Unity Trade </span> is <br/> Governed by the <br/> <span className='text-[#E07E37]'>community</span> 
          
@@ -15,7 +15,7 @@ const GovernedCommunity = () => {
 
     
     <div data-aos="fade-up" data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1"
-            className="df-item mt-10 df-item_last  mb-5 md:flex  justify-between"
+            className="df-item mt-10  df-item_last  mb-5 md:flex  justify-between"
           >
             <div className="p-8 md:ml-5 md:max-w-[55%]">
               
