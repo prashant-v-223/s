@@ -2,7 +2,7 @@
 
   const Footer = () => {
     return (
-      <div className="text-[14px]  px-3">
+      <div className="text-[14px]   px-6">
         <a
           href="#scrollToTopBtn" 
           id="scrollToTopBtnmain"
