@@ -830,15 +830,17 @@ export default function Home() {
           <div className="container-fluid ">
             <Supercharge />{" "}
           </div>
-          <div className="container p-0">
-            <BetaAccess />
-            <Card8 />
-            <LastCard />
-            <div className="flex justify-center">
-              <img className="w-[70px]" src="/footer_star.svg" />
+          <div className="container-fluid p-0">
+            <div className="mt-20 md:mx-36">
+              <BetaAccess />
+              <Card8 />
+              <LastCard />
+              <div className="flex justify-center">
+                <img className="w-[70px]" src="/footer_star.svg" />
+              </div>
+              <Footer />
+              <GatewayScroll />
             </div>
-            <Footer />
-            <GatewayScroll />
           </div>
         </div>
       </>
