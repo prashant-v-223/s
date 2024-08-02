@@ -123,14 +123,14 @@ const BetaAccess = () => {
       </div>
       <div class="bi-background is-val-bg">
         <div class="grid-css"></div>
-        <div class="bg-item_image is-valid">
+        <div class="bg-item_image is-valid  hidden_101">
           <img
             src="/dashboardss.png"
             // loading="lazy"
             // srcset="https://assets-global.website-files.com/63eb7ddf41cf5b1c8fdfbc74/63eee33b9254f177bd27794c_block-ui-image-validator-p-500.png 500w, https://assets-global.website-files.com/63eb7ddf41cf5b1c8fdfbc74/63eee33b9254f177bd27794c_block-ui-image-validator-p-800.png 800w, https://assets-global.website-files.com/63eb7ddf41cf5b1c8fdfbc74/63eee33b9254f177bd27794c_block-ui-image-validator-p-1080.png 1080w, https://assets-global.website-files.com/63eb7ddf41cf5b1c8fdfbc74/63eee33b9254f177bd27794c_block-ui-image-validator.webp 1950w"
             // sizes="(max-width: 479px) 89vw, (max-width: 767px) 97vw, (max-width: 991px) 351.78125px, (max-width: 1439px) 450.5625px, 534.71875px"
             // alt="Keplr Validator Dashboard "
-            class="bi-image_ui is-valid-img"
+            class="bi-image_ui is-valid-img "
           />
         </div>
         <div id="stars-validator" class="stars">
