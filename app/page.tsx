@@ -52,12 +52,12 @@ export default function Home() {
       </Head>
       <>
         <meta charSet="utf-8" />
-        <title>Futureswap</title>
+        <title>Introducing the Copywing token..Copy trading, Bot, Presale..</title>
         <meta
           content="The most powerful open trading platform for crypto assets. 20x leveraged trading with automated market making. Trade or lend cryptocurrency."
           name="description"
         />
-        <meta content="Futureswap" property="og:title" />
+        <meta content="Introducing the Copywing token..Copy trading, Bot, Presale.." property="og:title" />
         <meta
           content="The most powerful open trading platform for crypto assets. 20x leveraged trading with automated market making. Trade or lend cryptocurrency."
           property="og:description"
@@ -102,7 +102,7 @@ export default function Home() {
                   src="images/Group 1000004870.png"
                   loading="lazy"
                   alt=""
-                  className="w-[70%]"
+                  className="w-[50%]"
                 />
               </a>
               <nav
@@ -132,7 +132,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Trade
+                      Contract
                     </div>
                   </a>
                   <a
@@ -152,7 +152,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Docs
+                      Presale
                     </div>
                   </a>
                   <a
@@ -172,7 +172,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Governance
+                      Audit
                     </div>
                   </a>
                   <a
@@ -192,7 +192,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Jobs
+                      Socials
                     </div>
                   </a>
                   <a
@@ -266,7 +266,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Trade
+                      Contract
                     </div>
                   </a>
                   <a
@@ -286,7 +286,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Docs
+                      Presale
                     </div>
                   </a>
                   <a
@@ -306,7 +306,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Governance
+                      Audit
                     </div>
                   </a>
                   <a
@@ -326,7 +326,7 @@ export default function Home() {
                       className="nav-link-name"
                       style={{ color: "rgb(255, 255, 255)" }}
                     >
-                      Jobs
+                      Socials
                     </div>
                   </a>
                   <a
@@ -406,22 +406,22 @@ export default function Home() {
             <div className="hero-info-container">
               <div className="hero-info">
                 <div className="hero-subheader">
-                  Built on web3. Powered by You.
+                  Built on Web3. Powered by blockchain.
                 </div>
-                <h1 className="h1">The Future of Leverage Is Here</h1>
+                <h1 className="h1">The Future of Decentralization</h1>
                 <p className="p">
-                  Leverage on any tokens with a protocol trusted with billions
-                  for its performance and reliability.
+                Become a vital part of our community, sharing in the profits and growth of the platform.
+                By holding CWN tokens, you are not just an investor but much more.
                 </p>
                 <div className="hero-buttons-container">
                   <a
                     href="/api/"
                     className="filled-button is-filled-hero-button w-button"
                   >
-                    Start Trading
+                    Presale
                   </a>
                   <a href="" className="outlined-button w-button">
-                    Add Liquidity
+                    Smart contract
                   </a>
                 </div>
               </div>
@@ -569,12 +569,12 @@ export default function Home() {
                   <div className="s1-block">
                     <div className="s1-content-container">
                       <h3 className="h3 animated fadeIn">
-                        All-time trade volume
+                        Total CWN Supply
                       </h3>
                       <div className="s1-numbers">
-                        $
+                         
                         <span className="counter animated fadeInDownBig">
-                          4,200,368,117
+                          5,000,000,000
                         </span>
                       </div>
                     </div>
@@ -587,11 +587,11 @@ export default function Home() {
                   <div className="s1-block">
                     <div className="s1-content-container">
                       <h3 className="h3 is-green-h3 animated fadeIn">
-                        Total Trades
+                        Blockchain
                       </h3>
                       <div className="s1-numbers">
                         <span className="counter animated fadeInDownBig">
-                          10,434
+                          BSC
                         </span>
                       </div>
                     </div>
@@ -615,11 +615,10 @@ export default function Home() {
                   transformStyle: "preserve-3d",
                 }}
               >
-                <h2 className="h2">Take full control of your crypto</h2>
+                <h2 className="h2">Unlock your rewards with CWN</h2>
                 <p className="p is-s2-p">
-                  Built on Arbitrum and Avalanche, our decentralized leverage
-                  trading exchange focuses on being the best execution
-                  environment for trades.
+                 Our native token, CWN (CopyWing Token), is a key element of our ecosystem,
+                designed to enhance user engagement and provide valuable incentives.
                 </p>
               </div>
               <div className="s2-blocks-wrapper">
@@ -662,7 +661,7 @@ export default function Home() {
                         />
                       </div>
                       <h3 className="s2-h3 animated fadeIn">
-                        Leverage up to 30x
+                        100% Decentralized
                       </h3>
                     </div>
                   </div>
@@ -692,7 +691,7 @@ export default function Home() {
                         />
                       </div>
                       <h3 className="s2-h3 animated fadeIn">
-                        Low-risk liquidity pools
+                        Secure & Trusted
                       </h3>
                     </div>
                   </div>
@@ -752,7 +751,7 @@ export default function Home() {
                         />
                       </div>
                       <h3 className="s2-h3 animated fadeIn">
-                        Utilizes the most liquid AMMs
+                        Trading utilities
                       </h3>
                     </div>
                   </div>
@@ -782,7 +781,7 @@ export default function Home() {
                         />
                       </div>
                       <h3 className="s2-h3 animated fadeIn">
-                        Permissionless trading
+                        20% Profit distribution
                       </h3>
                     </div>
                   </div>
@@ -812,7 +811,7 @@ export default function Home() {
                         />
                       </div>
                       <h3 className="s2-h3 animated fadeIn">
-                        Fully composable
+                        Exclusiv benifits
                       </h3>
                     </div>
                   </div>

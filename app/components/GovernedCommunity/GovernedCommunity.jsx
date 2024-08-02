@@ -4,13 +4,13 @@ const GovernedCommunity = () => {
   return (
 <div>
     <div className='GovernedCommunity text-center py-28 container'>
-         <h2 className='text-3xl font-bold text-white'>
-          <span className='text-white'>Unity Trade </span> is <br/> Governed by the <br/> <span className='text-[#E07E37]'>community</span> 
+         <h4 className='text-3xl font-bold text-white'>
+          <span className='text-white'>Copywing </span> is <br/> Governed by the <br/> <span className='text-[#9B59B6]'>community</span> 
          
-         </h2>
-         <p className='mt-5 md:w-1/3 mx-auto mb-5 text-white'>Community drive program. Learning, educate, people with seminars, academy and perform marketing strategies to grow income. This is the motive of Unity Trade.</p>
+         </h4>
+         <p className='mt-5 md:w-1/3 mx-auto mb-5 text-white'>To encourage long-term holding, dividends are distributed periodically, creating a strong incentive for users to retain their CWN tokens. This aligns the interests of our community with the growth of the platform.</p>
         
-         <a href='https://t.me/dollerhouse' className='bg-[#E07E37] mt-5 rounded-3xl py-2 px-4'>Join community</a>
+         <a href='https://google.com' className='bg-[#9B59B6] mt-5 rounded-3xl py-2 px-4'>Click here to start buying & being a part of CWN</a>
     </div>
 
     
@@ -19,23 +19,23 @@ const GovernedCommunity = () => {
           >
             <div className="p-8 md:ml-5 md:max-w-[55%]">
               
-              <h3 className="text-2xl font-semibold mt-5 text-white">Why you should join <span className="text-[#E07E37]">Unity Trade?</span></h3>
+              <h3 className="text-2xl font-semibold mt-5 text-white">Why you should invest in <span className="text-[#9B59B6]">Copywing?</span></h3>
                <ul className="mt-5">
                   <li className="text-sm mb-3 flex">
                        <img className="w-6 mr-4" src="/tickgreen.svg"/>
-                       <p className="text-white">Unity Trade is completely decentralized & works on smart contract</p> 
+                       <p className="text-white">Copywing is completely decentralized & works on smart contract</p> 
                   </li>
                   <li  className="text-sm mb-3 flex">
                        <img className="w-6 mr-4" src="/tickgreen.svg"/>
-                    <p className="text-white"> There is no owner or admin authority over the contract or assets of the user</p>   
+                    <p className="text-white">  Your investment in CWN directly benefits from the success of CopyWing.</p>   
                   </li>
                   <li  className="text-sm mb-3 flex">
                        <img className="w-6 mr-4" src="/tickgreen.svg"/>
-                    <p className="text-white">  Unity Trade only deals with USDT stablecoin, which eliminates the issue of price fluctuation</p> 
+                    <p className="text-white"> Participate in a Growing Community: Engage with fellow traders and investors who share your goals and aspirations.</p> 
                   </li>
                   <li  className="text-sm mb-3 flex">
                        <img className="w-6 mr-4" src="/tickgreen.svg"/>
-                     <p className="text-white"> Your income is directly credited to your wallet address without any intermediate party.</p> 
+                     <p className="text-white">As we expand our offerings and improve our platform, CWN holders will have a voice in the future direction of CopyWing.</p> 
                   </li>
                </ul>
             </div>

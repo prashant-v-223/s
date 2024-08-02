@@ -28,7 +28,7 @@ const Interoperability = () => {
           >
             <div class="badge-bg">
               <div class="badge-content">
-                <div className="text-white">Join Unity Trade</div>
+                <div className="text-white">Go to Dashboard</div>
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@ const Interoperability = () => {
                 transformStyle: "preserve-3d",
               }}
             >
-             You can invite your friends and colleagues to grow your network & level income
+             You can invite your friends to get 10% referral & also get a chance to become a group leader with 15% referral reward on every member under your team
             </p>
           </div>
         </div>
@@ -67,9 +67,10 @@ const Interoperability = () => {
             className="df-item md:flex justify-around df-item_new"
           >
             <div className="md:w-1/2 ">
-              <h3 className="text-3xl font-bold mt-5 md:mt-0 text-white "> <span className="text-[#f3ba2f]">Binance </span> <span className="text-white">Smart Chain</span></h3>
+              <h3 className="text-3xl font-bold mt-5 md:mt-0 text-white "> <span className="text-[#9B59B6]">Copywing </span> <span className="text-white">bonus presale</span></h3>
               <p className="text-white mt-3 max-w-[350px]">
-              The robust & secure blockchain on which the Unity Trade platform is deployed. Unity Trade uses BSC network because
+              If you invite anyone on the platform you will be rewarded with 10% referral bonus. 
+              You can become a group leader to earn referral commission of 15%.
                </p>
              
             </div>
